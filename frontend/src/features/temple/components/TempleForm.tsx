@@ -1009,6 +1009,7 @@ export default function TempleForm({
                         <SelectItem value="inactive">
                           Inactive
                         </SelectItem>
+                        <SelectItem value="suspended">Suspended</SelectItem>
                       </SelectContent>
                     </Select>
 
