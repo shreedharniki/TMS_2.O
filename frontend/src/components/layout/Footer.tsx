@@ -19,10 +19,10 @@ export default function Footer() {
 
           <span>
            
-           <a href="https://codemythought.in/" target="_blank" rel="noopener noreferrer" aria-label="CodeMyThought" >
+           <a href="" target="_blank" rel="noopener noreferrer" aria-label="CodeMyThought" >
             <img src={logo} alt="CodeMyThought Logo" className="h-8 w-auto object-contain" />
              </a>
-             Devloped by Codemythought
+             Devloped by shreedhar
           </span>
           </div>
         {/* CENTER / RIGHT */}
@@ -44,7 +44,7 @@ export default function Footer() {
           <span className="hidden items-center gap-1 sm:flex">
             Made with
             <Heart className="size-3 fill-current" />
-            TMS v1.0.0
+            TMS v1.0.0 
           </span>
          
         </div>

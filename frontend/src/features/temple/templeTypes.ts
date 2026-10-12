@@ -1,4 +1,4 @@
-export type TempleStatus = "active" | "inactive";
+export type TempleStatus = "active" | "inactive" | "suspended";
 
 export interface Temple {
   id: number;
